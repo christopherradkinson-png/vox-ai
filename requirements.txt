@@ -1,0 +1,3 @@
+streamlit-audiorecorder==0.0.4
+sympy
+pydub
