@@ -1,0 +1,4 @@
+streamlit-audiorecorder
+sympy
+audioop-lts
+pydub
