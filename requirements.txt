@@ -1,6 +1,0 @@
-streamlit
-sympy
-numpy
-matplotlib
-requests
-Pillow
