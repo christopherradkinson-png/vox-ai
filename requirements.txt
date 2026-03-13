@@ -1,0 +1,9 @@
+streamlit
+streamlit-elements
+sympy
+numpy
+scipy
+pandas
+matplotlib
+Pillow
+pytesseract
