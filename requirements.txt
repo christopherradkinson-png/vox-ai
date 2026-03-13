@@ -1,0 +1,10 @@
+streamlit
+sympy
+numpy
+scipy
+pandas
+matplotlib
+Pillow
+pint
+plotly
+forex-python
