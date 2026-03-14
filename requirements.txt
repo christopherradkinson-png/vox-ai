@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+sympy
+numpy
+wikipedia
+pandas
+plotly
+yfinance
+duckduckgo-search
+rapidfuzz
+requests
+fpdf2
+Pillow
