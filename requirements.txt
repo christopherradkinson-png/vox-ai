@@ -1,0 +1,14 @@
+streamlit
+sympy
+numpy
+wikipedia
+astropy
+rapidfuzz
+llama-cpp-python
+huggingface_hub
+plotly
+pandas
+fpdf2
+yfinance
+mendeleev
+scipy
