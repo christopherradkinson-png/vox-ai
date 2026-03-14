@@ -1,0 +1,11 @@
+streamlit
+sympy
+numpy
+wikipedia
+pandas
+plotly
+yfinance
+duckduckgo_search
+rapidfuzz
+requests
+fpdf2
