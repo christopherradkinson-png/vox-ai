@@ -1,8 +1,0 @@
-streamlit
-sympy
-numpy
-wikipedia
-pandas
-yfinance
-duckduckgo_search
-requests
