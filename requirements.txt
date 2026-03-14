@@ -1,7 +1,0 @@
-streamlit
-sympy
-numpy
-wikipedia
-rapidfuzz
-astropy
-scipy
