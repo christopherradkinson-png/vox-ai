@@ -1,8 +1,0 @@
-streamlit
-sympy
-numpy
-wikipedia
-rapidfuzz
-plotly
-scipy
-pint
