@@ -1,0 +1,10 @@
+streamlit
+sympy
+numpy
+wikipedia
+astropy
+rapidfuzz
+plotly
+pandas
+fpdf2
+pillow
