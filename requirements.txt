@@ -1,0 +1,9 @@
+streamlit
+sympy
+numpy
+wikipedia
+pandas
+plotly
+yfinance
+rapidfuzz
+requests
