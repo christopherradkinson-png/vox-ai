@@ -1,9 +1,0 @@
-streamlit
-google-generativeai
-sympy
-numpy
-pandas
-plotly
-Pillow
-requests
-fpdf2
